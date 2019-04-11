@@ -1,0 +1,30 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.clear:after{
+	content: ".";
+	clear: both;
+	display: block;
+	visibility: hidden;
+	height: 0px;
+}
+.jianj{
+	width: 1200px;
+	margin: 0px auto;
+}
+.jianj-1{
+	margin-right: 58px;
+}
+.wudi{
+	width: 641px;
+}	
+.dian li{
+	list-style: url(../img/wudi_03.png);
+	float: left;
+	margin-right: 15px;
+}
+.bott li{
+	margin-bottom: 16px;
+	text-indent: 18px;
+}

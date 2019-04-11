@@ -1,0 +1,37 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.top-1{
+	width: 100%;
+	height: 40px;
+	background-color: #d8d8d8;
+	line-height: 40px;
+	color: #8d8d8d;
+}
+.top-2{
+	width: 1200px;
+	margin: 0px auto;
+}
+.mains{
+	width: 1200px;
+	margin: 0px auto;
+	display: flex;
+	justify-content: space-between;
+}
+.main-l{
+	height: 1400px;
+	width:260px;
+	padding-right: 15px ;
+}
+.xian{
+	border: #2C2C2C solid 1px;
+	margin-bottom: 40px;
+}
+.duo{
+	font-size: 12px;
+}
+.main-r{
+	height: 1400px;
+	width: 890px;
+}
